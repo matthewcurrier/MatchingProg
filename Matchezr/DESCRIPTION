@@ -11,4 +11,5 @@ LazyData: true
 Imports: dplyr,
     tidyr,
     stringr,
-    lubridate
+    lubridate,
+    sqldf
