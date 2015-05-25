@@ -1,0 +1,13 @@
+Package: Matchezr
+Title: It does some things with  matching.
+Version: 0.0.1
+Authors@R: person("Matthew", "Currier", , "currier.matthew@gmail.com", role = c("aut", "cre"))
+Description: This package adds lots of functions that will help you any
+  matching project you need to accomplish. It's free, and it works. Please
+  enjoy!
+Depends: R (>= 3.1.2)
+License: GPL-2
+LazyData: true
+Imports: dplyr,
+    tidyr,
+    stringr
