@@ -2,6 +2,7 @@
 
 export(any_non_na)
 export(chars_to_dates)
+export(chars_to_datetimes)
 export(compress_ph)
 export(concat_cols)
 export(copy_tactic_ids)
